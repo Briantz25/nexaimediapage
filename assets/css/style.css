@@ -264,4 +264,5 @@ a:focus-visible, button:focus-visible {
   .metric-card, .feature-card, .process-card, .pricing-card { padding: 24px; }
   .cta-section { padding: 84px 16px; }
   .footer-inner { padding: 64px 24px 0; }
+  .footer-contact-item svg { display: none; }
 }
